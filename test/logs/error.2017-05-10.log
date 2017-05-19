@@ -1,0 +1,1223 @@
+2017-05-10 15:54:03,486 [main] ERROR My.test.TestUrlMap - code=440300 events长度不一致, 1148!=300
+2017-05-10 15:54:03,536 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=1, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,539 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=2, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,542 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=3, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,544 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=4, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,547 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=5, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,549 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=6, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,550 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=7, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,561 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=8, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,562 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=9, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,564 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=10, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,565 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=11, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,568 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=12, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,570 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=13, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,573 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=14, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,580 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=15, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,580 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=16, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,580 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=17, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,580 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=18, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,581 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=19, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,582 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=20, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,582 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=21, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,582 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=22, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,583 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=23, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,583 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=24, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,583 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=25, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,583 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=26, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,584 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=27, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,584 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=28, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,584 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=29, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,584 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=30, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,585 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=31, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,585 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=32, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,585 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=33, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,585 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=34, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,586 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=35, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,586 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=36, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,586 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=37, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,586 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=38, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,587 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=39, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,591 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=40, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,591 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=41, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,591 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=42, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,591 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=43, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,592 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=44, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,592 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=45, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,592 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=46, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,592 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=47, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,593 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=48, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,593 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=49, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,593 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=50, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,593 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=51, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,594 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=52, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,594 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=53, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,594 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=54, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,594 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=55, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,594 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=56, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,595 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=57, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,595 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=58, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,596 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=59, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,596 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=60, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,596 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=61, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,597 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=62, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,597 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=63, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,598 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=64, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,598 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=65, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,598 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=66, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,598 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=67, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,599 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=68, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,599 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=69, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,599 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=70, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,599 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=71, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,599 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=72, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,600 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=73, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,600 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=74, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,600 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=75, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,600 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=76, roadEndName 不一致, 坂雪岗大道!=null
+2017-05-10 15:54:03,601 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=77, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,601 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=78, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,602 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=79, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,602 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=80, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,602 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=81, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,602 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=82, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,602 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=83, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,603 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=84, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,603 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=85, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,603 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=86, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,603 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=87, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,603 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=88, roadEndName 不一致, 永香西路!=null
+2017-05-10 15:54:03,604 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=89, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,604 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=90, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,628 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=91, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,629 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=92, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,629 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=93, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,629 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=94, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,629 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=95, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,629 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=96, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,629 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=97, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,630 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=98, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,630 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=99, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,630 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=100, roadEndName 不一致, 布龙路!=null
+2017-05-10 15:54:03,630 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=102, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,630 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=103, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,631 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=104, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,631 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=105, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,631 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=106, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,631 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=107, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,631 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=108, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,631 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=109, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,632 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=110, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,640 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=111, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,641 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=112, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,641 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=113, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,641 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=114, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,641 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=115, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,641 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=116, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,641 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=117, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,642 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=118, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,642 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=119, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,642 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=120, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,642 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=121, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,642 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=122, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,642 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=123, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,643 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=124, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,643 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=125, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,643 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=126, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,643 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=127, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,643 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=128, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,644 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=129, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,647 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=130, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,648 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=131, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,648 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=132, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,648 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=133, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,648 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=134, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,648 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=135, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,648 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=136, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,649 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=137, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,649 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=138, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,649 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=139, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,649 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=140, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,649 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=141, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,650 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=142, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,650 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=143, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,650 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=144, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,650 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=145, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,650 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=146, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,650 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=147, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,651 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=148, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,651 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=149, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,651 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=150, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,652 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=151, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,652 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=152, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,652 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=153, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,652 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=154, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,652 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=155, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,653 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=156, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,653 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=157, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,653 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=158, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,653 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=159, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,653 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=160, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,653 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=161, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,654 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=162, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,654 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=163, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,654 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=164, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,654 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=165, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,654 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=166, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,654 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=167, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,660 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=168, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,662 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=169, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,662 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=170, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,663 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=171, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,663 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=172, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,663 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=173, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,663 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=174, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,663 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=175, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,664 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=176, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,664 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=177, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,664 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=178, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,664 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=179, roadEndName 不一致, 五和大道!=null
+2017-05-10 15:54:03,665 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=180, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,665 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=181, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,665 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=182, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,665 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=183, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,665 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=184, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,666 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=185, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,667 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=186, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,667 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=187, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,667 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=188, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,668 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=189, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,668 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=190, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,669 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=191, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,675 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=192, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,675 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=193, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,675 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=194, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,675 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=195, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,675 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=196, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,675 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=197, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,675 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=198, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,676 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=199, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,676 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=200, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,676 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=201, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,676 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=202, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,676 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=203, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,676 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=204, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,676 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=205, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,676 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=206, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,677 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=207, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,677 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=208, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,677 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=209, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,682 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=210, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,682 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=211, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,682 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=212, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,682 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=213, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,682 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=214, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,682 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=215, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,683 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=216, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,683 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=217, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,683 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=218, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,683 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=219, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,684 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=220, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,686 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=221, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,686 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=222, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,686 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=223, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,686 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=224, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,687 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=225, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,687 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=226, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,687 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=227, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,690 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=228, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,690 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=229, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,690 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=230, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,690 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=231, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,690 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=232, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,691 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=233, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,691 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=234, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,691 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=235, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,691 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=236, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,691 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=237, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,691 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=238, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,691 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=239, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,691 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=240, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,692 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=241, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,692 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=242, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,692 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=243, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,692 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=244, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,692 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=245, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,697 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=246, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,698 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=247, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,698 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=248, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,698 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=249, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,698 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=250, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,698 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=251, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,698 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=252, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,698 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=253, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,699 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=254, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,699 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=255, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,700 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=256, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,701 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=257, roadEndName 不一致, 珠三角环线高速公路!=null
+2017-05-10 15:54:03,701 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=258, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,701 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=259, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,704 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=260, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,704 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=261, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,704 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=262, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,704 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=263, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,704 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=264, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,704 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=265, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,704 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=266, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,704 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=267, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,705 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=268, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,705 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=269, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,705 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=270, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,705 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=271, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,705 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=272, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,705 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=273, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,705 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=274, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,705 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=275, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,706 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=276, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,706 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=277, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,707 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=278, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,709 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=279, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,709 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=280, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,709 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=281, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,709 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=282, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,709 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=283, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,709 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=284, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,709 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=285, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,709 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=286, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,709 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=287, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,710 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=288, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,710 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=289, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,710 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=290, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,710 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=291, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,710 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=292, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,710 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=293, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,710 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=294, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,710 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=295, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,710 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=296, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,711 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=297, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,711 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=298, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,711 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=299, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,711 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=300, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,711 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=301, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,711 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=302, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,711 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=303, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,712 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=304, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,712 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=305, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,712 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=306, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,712 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=307, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,712 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=308, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,712 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=309, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,712 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=310, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,712 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=311, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,712 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=312, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,712 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=313, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,712 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=314, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,713 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=315, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,713 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=316, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,713 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=317, roadEndName 不一致, 梅龙路!=null
+2017-05-10 15:54:03,713 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=319, roadEndName 不一致, 留仙三路!=null
+2017-05-10 15:54:03,713 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=320, roadEndName 不一致, 留仙三路!=null
+2017-05-10 15:54:03,717 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=321, roadEndName 不一致, 留仙三路!=null
+2017-05-10 15:54:03,717 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=322, roadEndName 不一致, 留仙三路!=null
+2017-05-10 15:54:03,717 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=323, roadEndName 不一致, 留仙三路!=null
+2017-05-10 15:54:03,717 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=324, roadEndName 不一致, 留仙三路!=null
+2017-05-10 15:54:03,717 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=327, roadEndName 不一致, 大宝路!=null
+2017-05-10 15:54:03,717 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=328, roadEndName 不一致, 大宝路!=null
+2017-05-10 15:54:03,717 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=329, roadEndName 不一致, 大宝路!=null
+2017-05-10 15:54:03,717 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=330, roadEndName 不一致, 大宝路!=null
+2017-05-10 15:54:03,718 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=331, roadEndName 不一致, 大宝路!=null
+2017-05-10 15:54:03,718 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=332, roadEndName 不一致, 大宝路!=null
+2017-05-10 15:54:03,718 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=333, roadEndName 不一致, 山厦路!=null
+2017-05-10 15:54:03,718 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=334, roadEndName 不一致, 山厦路!=null
+2017-05-10 15:54:03,718 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=335, roadEndName 不一致, 山厦路!=null
+2017-05-10 15:54:03,718 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=336, roadEndName 不一致, 山厦路!=null
+2017-05-10 15:54:03,719 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=340, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,719 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=341, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,719 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=342, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,719 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=343, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,719 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=344, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,719 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=345, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,719 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=346, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,719 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=347, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,719 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=348, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,719 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=349, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,720 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=350, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,720 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=351, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,720 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=352, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,720 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=353, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,720 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=354, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,720 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=355, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,720 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=356, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,720 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=357, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,721 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=358, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,721 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=359, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,721 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=360, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,721 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=361, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,721 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=362, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,721 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=363, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,721 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=364, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,722 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=365, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,722 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=366, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,722 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=367, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,722 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=368, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,722 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=369, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,722 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=370, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,722 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=371, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,722 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=372, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,722 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=373, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,722 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=374, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,722 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=375, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,723 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=376, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,723 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=377, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,723 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=378, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,723 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=379, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,723 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=380, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,723 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=381, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,723 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=382, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,724 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=383, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,726 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=384, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,726 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=385, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,727 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=386, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,730 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=387, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,730 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=388, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,730 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=389, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,730 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=390, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,730 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=391, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,730 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=392, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,730 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=393, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,730 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=394, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,730 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=395, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,730 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=396, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,731 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=397, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,731 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=398, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,731 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=399, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,731 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=400, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,731 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=401, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,731 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=402, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,731 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=403, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,731 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=404, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,731 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=405, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,732 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=406, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,732 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=407, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,732 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=408, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,732 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=409, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,732 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=410, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,732 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=411, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,732 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=412, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,732 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=413, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,732 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=414, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,732 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=415, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,733 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=416, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,734 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=417, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,734 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=418, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,734 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=419, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,735 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=420, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,735 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=421, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,735 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=422, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,735 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=423, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,735 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=424, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,735 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=425, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,735 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=426, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,735 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=427, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,735 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=428, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,735 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=429, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,735 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=430, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,736 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=431, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,736 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=432, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,736 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=433, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,736 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=434, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,736 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=435, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,736 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=436, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,736 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=437, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,736 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=438, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,737 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=439, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,737 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=440, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,737 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=441, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,737 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=442, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,737 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=443, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,737 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=444, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,737 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=445, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,737 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=446, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,737 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=447, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,737 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=448, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,737 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=449, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,738 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=450, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,738 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=451, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,738 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=452, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,738 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=453, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,738 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=454, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,738 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=455, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,738 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=456, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,739 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=457, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,743 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=458, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,743 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=459, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,743 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=460, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,743 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=461, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,743 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=462, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,744 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=463, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,744 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=464, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,744 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=465, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,744 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=466, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,744 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=467, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,744 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=468, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,744 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=469, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,744 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=470, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,744 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=471, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,744 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=472, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,745 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=473, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,745 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=474, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,745 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=475, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,745 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=476, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,745 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=477, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,745 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=478, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,745 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=479, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,745 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=480, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,745 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=481, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,745 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=482, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,745 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=483, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,746 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=484, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,746 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=485, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,746 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=486, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,746 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=487, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,746 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=488, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,746 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=489, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,747 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=490, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,747 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=491, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,747 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=492, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,747 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=493, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,747 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=494, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,747 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=495, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,747 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=496, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,747 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=497, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,747 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=498, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,747 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=499, roadEndName 不一致, 益民路!=null
+2017-05-10 15:54:03,749 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=526, roadEndName 不一致, 宝石路!=null
+2017-05-10 15:54:03,749 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=527, roadEndName 不一致, 宝石路!=null
+2017-05-10 15:54:03,749 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=528, roadEndName 不一致, 宝石路!=null
+2017-05-10 15:54:03,749 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=529, roadEndName 不一致, 宝石路!=null
+2017-05-10 15:54:03,749 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=530, roadEndName 不一致, 宝石路!=null
+2017-05-10 15:54:03,749 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=531, roadEndName 不一致, 宝石路!=null
+2017-05-10 15:54:03,750 [main] ERROR My.test.TestUrlMap - code=440300, enventIndex=532, roadEndName 不一致, 宝石路!=null
+2017-05-10 15:56:26,109 [main] ERROR My.test.TestUrlMap - code=110000 events长度不一致, 960!=292
+2017-05-10 15:56:26,153 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=8, roadEndName 不一致, 水碓子东街!=null
+2017-05-10 15:56:26,153 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=9, roadEndName 不一致, 水碓子东街!=null
+2017-05-10 15:56:26,154 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=10, roadEndName 不一致, 水碓子东街!=null
+2017-05-10 15:56:26,154 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=11, roadEndName 不一致, 水碓子东街!=null
+2017-05-10 15:56:26,154 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=12, roadEndName 不一致, 水碓子东街!=null
+2017-05-10 15:56:26,155 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=13, roadEndName 不一致, 水碓子东街!=null
+2017-05-10 15:56:26,155 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=14, roadEndName 不一致, 水碓子东街!=null
+2017-05-10 15:56:26,155 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=15, roadEndName 不一致, 水碓子东街!=null
+2017-05-10 15:56:26,163 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=34, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,172 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=35, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,173 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=36, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,174 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=37, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,174 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=38, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,176 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=39, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,176 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=40, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,177 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=41, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,177 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=42, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,177 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=43, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,177 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=44, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,180 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=45, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,180 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=46, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,184 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=47, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,186 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=48, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,188 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=49, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,188 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=50, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,190 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=51, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,190 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=52, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,190 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=53, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,191 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=54, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,191 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=55, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,192 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=56, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,193 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=57, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,194 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=58, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,194 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=59, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,195 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=60, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,199 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=61, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,200 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=62, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,200 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=63, roadEndName 不一致, 军温路!=null
+2017-05-10 15:56:26,209 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=68, roadEndName 不一致, 团结湖路!=null
+2017-05-10 15:56:26,216 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=69, roadEndName 不一致, 团结湖路!=null
+2017-05-10 15:56:26,216 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=70, roadEndName 不一致, 团结湖路!=null
+2017-05-10 15:56:26,216 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=71, roadEndName 不一致, 团结湖路!=null
+2017-05-10 15:56:26,217 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=72, roadEndName 不一致, 团结湖路!=null
+2017-05-10 15:56:26,217 [main] ERROR My.test.TestUrlMap - code=110000, enventIndex=73, roadEndName 不一致, 团结湖路!=null
+2017-05-10 15:56:26,974 [main] ERROR My.test.TestUrlMap - code=120000 events长度不一致, 394!=176
+2017-05-10 15:56:27,163 [main] ERROR My.test.TestUrlMap - code=130100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:27,541 [main] ERROR My.test.TestUrlMap - code=130200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:27,594 [main] ERROR My.test.TestUrlMap - code=130300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:27,897 [main] ERROR My.test.TestUrlMap - code=130400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:27,946 [main] ERROR My.test.TestUrlMap - code=130500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:27,988 [main] ERROR My.test.TestUrlMap - code=130600 events长度不一致, 62!=41
+2017-05-10 15:56:28,068 [main] ERROR My.test.TestUrlMap - code=130700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:28,597 [main] ERROR My.test.TestUrlMap - code=130900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:28,669 [main] ERROR My.test.TestUrlMap - code=131000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:28,718 [main] ERROR My.test.TestUrlMap - code=131100 events长度不一致, 49!=20
+2017-05-10 15:56:28,845 [main] ERROR My.test.TestUrlMap - code=140100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:28,881 [main] ERROR My.test.TestUrlMap - code=140200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:29,011 [main] ERROR My.test.TestUrlMap - code=140400 events长度不一致, 154!=67
+2017-05-10 15:56:29,103 [main] ERROR My.test.TestUrlMap - code=140500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:29,143 [main] ERROR My.test.TestUrlMap - code=140700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:29,717 [main] ERROR My.test.TestUrlMap - code=140800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:29,754 [main] ERROR My.test.TestUrlMap - code=140900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:29,799 [main] ERROR My.test.TestUrlMap - code=141000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:29,840 [main] ERROR My.test.TestUrlMap - code=141100 events长度不一致, 111!=54
+2017-05-10 15:56:30,014 [main] ERROR My.test.TestUrlMap - code=150100 events长度不一致, 738!=35
+2017-05-10 15:56:30,041 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=1, roadEndName 不一致, 机场高速公路!=null
+2017-05-10 15:56:30,041 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=2, roadEndName 不一致, 机场高速公路!=null
+2017-05-10 15:56:30,041 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=3, roadEndName 不一致, 机场高速公路!=null
+2017-05-10 15:56:30,041 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=4, roadEndName 不一致, 机场高速公路!=null
+2017-05-10 15:56:30,041 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=5, roadEndName 不一致, 机场高速公路!=null
+2017-05-10 15:56:30,041 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=7, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=8, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=9, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=10, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=11, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=12, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=13, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=14, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=15, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=16, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=17, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=18, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=19, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,042 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=20, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=21, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=22, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=23, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=24, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=25, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=26, roadEndName 不一致, 东影南路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=27, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=28, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=29, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=30, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=31, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,043 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=32, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=33, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=34, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=35, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=36, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=37, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=38, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=39, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=40, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=41, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=42, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=43, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,044 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=44, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,045 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=45, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,045 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=46, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,045 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=47, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,045 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=48, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,045 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=49, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,045 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=50, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,045 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=51, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,046 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=52, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,046 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=53, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,046 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=54, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,046 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=55, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,046 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=56, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,046 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=57, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,046 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=58, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,046 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=59, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,046 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=60, roadEndName 不一致, 展览馆东路!=null
+2017-05-10 15:56:30,046 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=61, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,047 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=62, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,047 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=63, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,047 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=64, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,047 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=65, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,047 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=66, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,047 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=67, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,047 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=68, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,047 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=69, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,047 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=70, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,047 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=71, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,047 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=72, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,048 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=73, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,048 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=74, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,048 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=75, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,048 [main] ERROR My.test.TestUrlMap - code=150100, enventIndex=76, roadEndName 不一致, 兴安南路!=null
+2017-05-10 15:56:30,321 [main] ERROR My.test.TestUrlMap - code=150200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:30,408 [main] ERROR My.test.TestUrlMap - code=150300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:30,505 [main] ERROR My.test.TestUrlMap - code=150400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:30,659 [main] ERROR My.test.TestUrlMap - code=150500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:30,709 [main] ERROR My.test.TestUrlMap - code=150600 events长度不一致, 233!=53
+2017-05-10 15:56:30,819 [main] ERROR My.test.TestUrlMap - code=150700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:30,857 [main] ERROR My.test.TestUrlMap - code=150800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:30,899 [main] ERROR My.test.TestUrlMap - code=150900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:30,937 [main] ERROR My.test.TestUrlMap - code=152200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:30,974 [main] ERROR My.test.TestUrlMap - code=152500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:31,012 [main] ERROR My.test.TestUrlMap - code=152900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:31,211 [main] ERROR My.test.TestUrlMap - code=210100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:31,294 [main] ERROR My.test.TestUrlMap - code=210200 events长度不一致, 506!=146
+2017-05-10 15:56:31,295 [main] ERROR My.test.TestUrlMap - code=210200, enventIndex=0, roadEndName 不一致, 港隆路!=null
+2017-05-10 15:56:31,295 [main] ERROR My.test.TestUrlMap - code=210200, enventIndex=1, roadEndName 不一致, 港隆路!=null
+2017-05-10 15:56:31,295 [main] ERROR My.test.TestUrlMap - code=210200, enventIndex=2, roadEndName 不一致, 浦港路!=null
+2017-05-10 15:56:31,295 [main] ERROR My.test.TestUrlMap - code=210200, enventIndex=3, roadEndName 不一致, 浦港路!=null
+2017-05-10 15:56:31,646 [main] ERROR My.test.TestUrlMap - code=210400 events长度不一致, 29!=16
+2017-05-10 15:56:31,693 [main] ERROR My.test.TestUrlMap - code=210500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:31,742 [main] ERROR My.test.TestUrlMap - code=210600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:31,784 [main] ERROR My.test.TestUrlMap - code=210700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:31,825 [main] ERROR My.test.TestUrlMap - code=210800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:31,959 [main] ERROR My.test.TestUrlMap - code=210900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:32,013 [main] ERROR My.test.TestUrlMap - code=211000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:32,540 [main] ERROR My.test.TestUrlMap - code=211100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:32,861 [main] ERROR My.test.TestUrlMap - code=211200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:33,003 [main] ERROR My.test.TestUrlMap - code=211300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:33,545 [main] ERROR My.test.TestUrlMap - code=211400 events长度不一致, 88!=44
+2017-05-10 15:56:33,708 [main] ERROR My.test.TestUrlMap - code=220100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:33,786 [main] ERROR My.test.TestUrlMap - code=220200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:33,827 [main] ERROR My.test.TestUrlMap - code=220300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:33,868 [main] ERROR My.test.TestUrlMap - code=220400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:33,904 [main] ERROR My.test.TestUrlMap - code=220500 events长度不一致, 4!=2
+2017-05-10 15:56:33,961 [main] ERROR My.test.TestUrlMap - code=220600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:34,245 [main] ERROR My.test.TestUrlMap - code=220700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:34,284 [main] ERROR My.test.TestUrlMap - code=220800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:34,333 [main] ERROR My.test.TestUrlMap - code=222400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:34,991 [main] ERROR My.test.TestUrlMap - code=230100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:35,133 [main] ERROR My.test.TestUrlMap - code=230200 events长度不一致, 460!=144
+2017-05-10 15:56:35,209 [main] ERROR My.test.TestUrlMap - code=230300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:35,246 [main] ERROR My.test.TestUrlMap - code=230400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:35,290 [main] ERROR My.test.TestUrlMap - code=230500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:35,334 [main] ERROR My.test.TestUrlMap - code=230600 events长度不一致, 110!=31
+2017-05-10 15:56:35,389 [main] ERROR My.test.TestUrlMap - code=230700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:35,472 [main] ERROR My.test.TestUrlMap - code=230800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:35,509 [main] ERROR My.test.TestUrlMap - code=230900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:35,554 [main] ERROR My.test.TestUrlMap - code=231000 events长度不一致, 94!=32
+2017-05-10 15:56:35,617 [main] ERROR My.test.TestUrlMap - code=231100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:35,659 [main] ERROR My.test.TestUrlMap - code=231200 events长度不一致, 52!=24
+2017-05-10 15:56:36,014 [main] ERROR My.test.TestUrlMap - code=310000 events长度不一致, 1614!=477
+2017-05-10 15:56:36,014 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=0, roadEndName 不一致, 桂平路!=null
+2017-05-10 15:56:36,014 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=1, roadEndName 不一致, 桂平路!=null
+2017-05-10 15:56:36,014 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=2, roadEndName 不一致, 虹梅路!=null
+2017-05-10 15:56:36,014 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=3, roadEndName 不一致, 虹梅路!=null
+2017-05-10 15:56:36,014 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=4, roadEndName 不一致, 虹梅路!=null
+2017-05-10 15:56:36,014 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=5, roadEndName 不一致, 虹梅路!=null
+2017-05-10 15:56:36,018 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=40, roadEndName 不一致, 南侧京沪高速出入口!=null
+2017-05-10 15:56:36,018 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=41, roadEndName 不一致, 南侧京沪高速出入口!=null
+2017-05-10 15:56:36,019 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=42, roadEndName 不一致, 南侧京沪高速出入口!=null
+2017-05-10 15:56:36,019 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=43, roadEndName 不一致, 南侧京沪高速出入口!=null
+2017-05-10 15:56:36,019 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=44, roadEndName 不一致, 南侧京沪高速出入口!=null
+2017-05-10 15:56:36,019 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=45, roadEndName 不一致, 南侧京沪高速出入口!=null
+2017-05-10 15:56:36,019 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=46, roadEndName 不一致, 长寿路!=null
+2017-05-10 15:56:36,019 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=47, roadEndName 不一致, 长寿路!=null
+2017-05-10 15:56:36,019 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=48, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,019 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=49, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,019 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=50, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,019 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=51, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,020 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=52, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,020 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=53, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,020 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=54, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,020 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=55, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=56, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=57, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=58, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=59, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=60, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=61, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=62, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=63, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=64, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=65, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=66, roadEndName 不一致, 真北路!=null
+2017-05-10 15:56:36,029 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=67, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,030 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=68, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,030 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=69, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,030 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=70, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,030 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=71, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,030 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=72, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,030 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=73, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,030 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=74, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,030 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=75, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,030 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=76, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,030 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=77, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=78, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=79, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=80, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=81, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=82, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=83, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=84, roadEndName 不一致, 北翟路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=85, roadEndName 不一致, 中山北路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=86, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=87, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=88, roadEndName 不一致, 沪杭公路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=89, roadEndName 不一致, 沪杭公路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=90, roadEndName 不一致, 沪杭公路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=91, roadEndName 不一致, 沪杭公路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=92, roadEndName 不一致, 沪杭公路!=null
+2017-05-10 15:56:36,031 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=93, roadEndName 不一致, 沪杭公路!=null
+2017-05-10 15:56:36,032 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=94, roadEndName 不一致, 沪杭公路!=null
+2017-05-10 15:56:36,036 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=95, roadEndName 不一致, 沪杭公路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=96, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=97, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=98, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=99, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=100, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=101, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=102, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=103, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=104, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=105, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=106, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=107, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=108, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=109, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,037 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=110, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,038 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=111, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,038 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=112, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,038 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=113, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,040 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=114, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=115, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=116, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=117, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=118, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=119, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=120, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=121, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=122, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=123, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=124, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=125, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=126, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=127, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=128, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=129, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=130, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,041 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=131, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,042 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=132, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,042 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=133, roadEndName 不一致, 颛兴东路!=null
+2017-05-10 15:56:36,042 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=136, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,042 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=137, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,042 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=138, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,042 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=139, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,042 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=140, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,042 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=141, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,042 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=142, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=143, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=144, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=145, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=146, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=147, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=148, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=149, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=150, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=151, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=152, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=153, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=154, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=155, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=156, roadEndName 不一致, 祁连山南路!=null
+2017-05-10 15:56:36,043 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=157, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,044 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=158, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,050 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=159, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,050 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=160, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,050 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=161, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,050 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=162, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=163, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=164, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=165, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=166, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=167, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=168, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=169, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=170, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=171, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=172, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=173, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=174, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=175, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=176, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,051 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=177, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,052 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=178, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,052 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=179, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,052 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=180, roadEndName 不一致, 东宝兴路!=null
+2017-05-10 15:56:36,052 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=181, roadEndName 不一致, 江宁路!=null
+2017-05-10 15:56:36,052 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=182, roadEndName 不一致, 江宁路!=null
+2017-05-10 15:56:36,052 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=183, roadEndName 不一致, 江宁路!=null
+2017-05-10 15:56:36,052 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=184, roadEndName 不一致, 江宁路!=null
+2017-05-10 15:56:36,052 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=185, roadEndName 不一致, 钦州南路!=null
+2017-05-10 15:56:36,052 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=186, roadEndName 不一致, 钦州南路!=null
+2017-05-10 15:56:36,052 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=187, roadEndName 不一致, 钦州南路!=null
+2017-05-10 15:56:36,052 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=188, roadEndName 不一致, 钦州南路!=null
+2017-05-10 15:56:36,053 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=199, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,053 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=200, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,053 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=201, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,053 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=202, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,053 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=203, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,053 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=204, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,054 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=205, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,054 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=206, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,054 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=207, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,054 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=208, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,054 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=209, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,054 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=210, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,054 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=211, roadEndName 不一致, 南京西路!=null
+2017-05-10 15:56:36,054 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=223, roadEndName 不一致, 莘朱路!=null
+2017-05-10 15:56:36,054 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=224, roadEndName 不一致, 莘朱路!=null
+2017-05-10 15:56:36,054 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=225, roadEndName 不一致, 莘朱路!=null
+2017-05-10 15:56:36,054 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=226, roadEndName 不一致, 东川路地铁站!=null
+2017-05-10 15:56:36,055 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=227, roadEndName 不一致, 东川路地铁站!=null
+2017-05-10 15:56:36,055 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=228, roadEndName 不一致, 东川路地铁站!=null
+2017-05-10 15:56:36,059 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=229, roadEndName 不一致, 东川路地铁站!=null
+2017-05-10 15:56:36,059 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=230, roadEndName 不一致, 东川路地铁站!=null
+2017-05-10 15:56:36,059 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=231, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,059 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=232, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,059 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=233, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,059 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=234, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,060 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=235, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,060 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=236, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,060 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=237, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,060 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=238, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,060 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=239, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,060 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=240, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,060 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=241, roadEndName 不一致, 虹莘路!=null
+2017-05-10 15:56:36,060 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=251, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,060 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=252, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,061 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=253, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,061 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=254, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,061 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=255, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,061 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=256, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,061 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=257, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,061 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=258, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,061 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=259, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,061 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=260, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,061 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=261, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,061 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=262, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,061 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=263, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,062 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=264, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,062 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=265, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,062 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=266, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,062 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=267, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,062 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=268, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,062 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=269, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,062 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=270, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,062 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=271, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,062 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=272, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=273, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=274, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=275, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=276, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=277, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=278, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=279, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=280, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=281, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=282, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=283, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=284, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,067 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=285, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,068 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=286, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,068 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=287, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,068 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=288, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,068 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=289, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,068 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=290, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,068 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=291, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,156 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=292, roadEndName 不一致, 三江路!=null
+2017-05-10 15:56:36,162 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=422, roadEndName 不一致, 平型关路!=null
+2017-05-10 15:56:36,162 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=423, roadEndName 不一致, 平型关路!=null
+2017-05-10 15:56:36,163 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=424, roadEndName 不一致, 平型关路!=null
+2017-05-10 15:56:36,163 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=425, roadEndName 不一致, 平型关路!=null
+2017-05-10 15:56:36,163 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=426, roadEndName 不一致, 平型关路!=null
+2017-05-10 15:56:36,167 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=526, roadEndName 不一致, 四平路!=null
+2017-05-10 15:56:36,167 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=527, roadEndName 不一致, 四平路!=null
+2017-05-10 15:56:36,167 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=528, roadEndName 不一致, 四平路!=null
+2017-05-10 15:56:36,167 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=529, roadEndName 不一致, 四平路!=null
+2017-05-10 15:56:36,168 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=530, roadEndName 不一致, 四平路!=null
+2017-05-10 15:56:36,168 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=531, roadEndName 不一致, 四平路!=null
+2017-05-10 15:56:36,169 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=534, roadEndName 不一致, 华宁路!=null
+2017-05-10 15:56:36,169 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=535, roadEndName 不一致, 华宁路!=null
+2017-05-10 15:56:36,169 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=536, roadEndName 不一致, 华宁路!=null
+2017-05-10 15:56:36,169 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=537, roadEndName 不一致, 华宁路!=null
+2017-05-10 15:56:36,169 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=538, roadEndName 不一致, 华宁路!=null
+2017-05-10 15:56:36,169 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=539, roadEndName 不一致, 华宁路!=null
+2017-05-10 15:56:36,169 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=540, roadEndName 不一致, 华宁路!=null
+2017-05-10 15:56:36,169 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=541, roadEndName 不一致, 华宁路!=null
+2017-05-10 15:56:36,226 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=1506, roadEndName 不一致, 桂平路!=null
+2017-05-10 15:56:36,227 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=1507, roadEndName 不一致, 桂平路!=null
+2017-05-10 15:56:36,227 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=1508, roadEndName 不一致, 桂平路!=null
+2017-05-10 15:56:36,227 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=1509, roadEndName 不一致, 桂平路!=null
+2017-05-10 15:56:36,227 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=1510, roadEndName 不一致, 陕西南路!=null
+2017-05-10 15:56:36,227 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=1511, roadEndName 不一致, 陕西南路!=null
+2017-05-10 15:56:36,227 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=1512, roadEndName 不一致, 陕西南路!=null
+2017-05-10 15:56:36,227 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=1513, roadEndName 不一致, 陕西南路!=null
+2017-05-10 15:56:36,227 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=1514, roadEndName 不一致, 陕西南路!=null
+2017-05-10 15:56:36,227 [main] ERROR My.test.TestUrlMap - code=310000, enventIndex=1515, roadEndName 不一致, 陕西南路!=null
+2017-05-10 15:56:36,343 [main] ERROR My.test.TestUrlMap - code=320100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:36,487 [main] ERROR My.test.TestUrlMap - code=320200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:36,549 [main] ERROR My.test.TestUrlMap - code=320300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:36,677 [main] ERROR My.test.TestUrlMap - code=320400 events长度不一致, 423!=235
+2017-05-10 15:56:37,748 [main] ERROR My.test.TestUrlMap - code=320500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:38,340 [main] ERROR My.test.TestUrlMap - code=320600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:38,483 [main] ERROR My.test.TestUrlMap - code=320700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:38,524 [main] ERROR My.test.TestUrlMap - code=320800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:38,604 [main] ERROR My.test.TestUrlMap - code=320900 events长度不一致, 278!=156
+2017-05-10 15:56:38,672 [main] ERROR My.test.TestUrlMap - code=321000 events长度不一致, 134!=74
+2017-05-10 15:56:38,754 [main] ERROR My.test.TestUrlMap - code=321100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:38,833 [main] ERROR My.test.TestUrlMap - code=321200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:38,910 [main] ERROR My.test.TestUrlMap - code=321300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:39,218 [main] ERROR My.test.TestUrlMap - code=330100 events长度不一致, 612!=221
+2017-05-10 15:56:39,230 [main] ERROR My.test.TestUrlMap - code=330100, enventIndex=196, roadEndName 不一致, 古墩路!=null
+2017-05-10 15:56:39,230 [main] ERROR My.test.TestUrlMap - code=330100, enventIndex=197, roadEndName 不一致, 古墩路!=null
+2017-05-10 15:56:39,230 [main] ERROR My.test.TestUrlMap - code=330100, enventIndex=198, roadEndName 不一致, 古墩路!=null
+2017-05-10 15:56:39,230 [main] ERROR My.test.TestUrlMap - code=330100, enventIndex=199, roadEndName 不一致, 古墩路!=null
+2017-05-10 15:56:39,231 [main] ERROR My.test.TestUrlMap - code=330100, enventIndex=200, roadEndName 不一致, 古墩路!=null
+2017-05-10 15:56:39,231 [main] ERROR My.test.TestUrlMap - code=330100, enventIndex=201, roadEndName 不一致, 古墩路!=null
+2017-05-10 15:56:39,231 [main] ERROR My.test.TestUrlMap - code=330100, enventIndex=202, roadEndName 不一致, 古墩路!=null
+2017-05-10 15:56:39,335 [main] ERROR My.test.TestUrlMap - code=330200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:39,384 [main] ERROR My.test.TestUrlMap - code=330300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:39,436 [main] ERROR My.test.TestUrlMap - code=330400 events长度不一致, 213!=122
+2017-05-10 15:56:39,491 [main] ERROR My.test.TestUrlMap - code=330500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:39,538 [main] ERROR My.test.TestUrlMap - code=330600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:39,589 [main] ERROR My.test.TestUrlMap - code=330700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:40,104 [main] ERROR My.test.TestUrlMap - code=330800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:40,145 [main] ERROR My.test.TestUrlMap - code=330900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:40,304 [main] ERROR My.test.TestUrlMap - code=331000 events长度不一致, 117!=41
+2017-05-10 15:56:40,304 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=0, roadEndName 不一致, 双水路!=null
+2017-05-10 15:56:40,304 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=1, roadEndName 不一致, 双水路!=null
+2017-05-10 15:56:40,304 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=2, roadEndName 不一致, 双水路!=null
+2017-05-10 15:56:40,304 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=3, roadEndName 不一致, 双水路!=null
+2017-05-10 15:56:40,304 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=4, roadEndName 不一致, 双水路!=null
+2017-05-10 15:56:40,304 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=5, roadEndName 不一致, 双水路!=null
+2017-05-10 15:56:40,305 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=6, roadEndName 不一致, 双水路!=null
+2017-05-10 15:56:40,305 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=7, roadEndName 不一致, 双水路!=null
+2017-05-10 15:56:40,305 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=8, roadEndName 不一致, 洪兆路!=null
+2017-05-10 15:56:40,305 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=9, roadEndName 不一致, 洪兆路!=null
+2017-05-10 15:56:40,305 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=10, roadEndName 不一致, 洪兆路!=null
+2017-05-10 15:56:40,305 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=11, roadEndName 不一致, 洪兆路!=null
+2017-05-10 15:56:40,305 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=12, roadEndName 不一致, 洪兆路!=null
+2017-05-10 15:56:40,305 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=13, roadEndName 不一致, 洪兆路!=null
+2017-05-10 15:56:40,306 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=14, roadEndName 不一致, 洪兆路!=null
+2017-05-10 15:56:40,306 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=15, roadEndName 不一致, 洪兆路!=null
+2017-05-10 15:56:40,306 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=16, roadEndName 不一致, 洪兆路!=null
+2017-05-10 15:56:40,306 [main] ERROR My.test.TestUrlMap - code=331000, enventIndex=17, roadEndName 不一致, 洪兆路!=null
+2017-05-10 15:56:41,107 [main] ERROR My.test.TestUrlMap - code=331100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:41,181 [main] ERROR My.test.TestUrlMap - code=340100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:41,224 [main] ERROR My.test.TestUrlMap - code=340200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:41,301 [main] ERROR My.test.TestUrlMap - code=340300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:41,340 [main] ERROR My.test.TestUrlMap - code=340400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:41,388 [main] ERROR My.test.TestUrlMap - code=340500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:41,434 [main] ERROR My.test.TestUrlMap - code=340600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:41,751 [main] ERROR My.test.TestUrlMap - code=340700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:41,832 [main] ERROR My.test.TestUrlMap - code=340800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:41,873 [main] ERROR My.test.TestUrlMap - code=341000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:42,008 [main] ERROR My.test.TestUrlMap - code=341100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:43,213 [main] ERROR My.test.TestUrlMap - code=341200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:43,305 [main] ERROR My.test.TestUrlMap - code=341300 events长度不一致, 213!=57
+2017-05-10 15:56:44,125 [main] ERROR My.test.TestUrlMap - code=341500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:44,197 [main] ERROR My.test.TestUrlMap - code=341600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:44,238 [main] ERROR My.test.TestUrlMap - code=341700 events长度不一致, 32!=17
+2017-05-10 15:56:44,281 [main] ERROR My.test.TestUrlMap - code=341800 events长度不一致, 51!=22
+2017-05-10 15:56:44,389 [main] ERROR My.test.TestUrlMap - code=350100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:44,432 [main] ERROR My.test.TestUrlMap - code=350200 events长度不一致, 104!=55
+2017-05-10 15:56:44,476 [main] ERROR My.test.TestUrlMap - code=350300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:44,514 [main] ERROR My.test.TestUrlMap - code=350400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:44,569 [main] ERROR My.test.TestUrlMap - code=350500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:44,610 [main] ERROR My.test.TestUrlMap - code=350600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:44,887 [main] ERROR My.test.TestUrlMap - code=350700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:44,928 [main] ERROR My.test.TestUrlMap - code=350800 events长度不一致, 33!=22
+2017-05-10 15:56:44,973 [main] ERROR My.test.TestUrlMap - code=350900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:45,058 [main] ERROR My.test.TestUrlMap - code=360100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:45,102 [main] ERROR My.test.TestUrlMap - code=360200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:45,143 [main] ERROR My.test.TestUrlMap - code=360300 events长度不一致, 115!=25
+2017-05-10 15:56:47,100 [main] ERROR My.test.TestUrlMap - code=360400 events长度不一致, 209!=85
+2017-05-10 15:56:47,190 [main] ERROR My.test.TestUrlMap - code=360500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:47,234 [main] ERROR My.test.TestUrlMap - code=360600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:47,288 [main] ERROR My.test.TestUrlMap - code=360700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:47,327 [main] ERROR My.test.TestUrlMap - code=360800 events长度不一致, 19!=18
+2017-05-10 15:56:47,835 [main] ERROR My.test.TestUrlMap - code=360900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:48,392 [main] ERROR My.test.TestUrlMap - code=361000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:49,218 [main] ERROR My.test.TestUrlMap - code=361100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:49,323 [main] ERROR My.test.TestUrlMap - code=370100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:49,424 [main] ERROR My.test.TestUrlMap - code=370200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:49,468 [main] ERROR My.test.TestUrlMap - code=370300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:49,506 [main] ERROR My.test.TestUrlMap - code=370400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:49,548 [main] ERROR My.test.TestUrlMap - code=370500 events长度不一致, 47!=23
+2017-05-10 15:56:49,592 [main] ERROR My.test.TestUrlMap - code=370600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:49,634 [main] ERROR My.test.TestUrlMap - code=370700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:49,688 [main] ERROR My.test.TestUrlMap - code=370800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:49,763 [main] ERROR My.test.TestUrlMap - code=370900 events长度不一致, 278!=85
+2017-05-10 15:56:50,586 [main] ERROR My.test.TestUrlMap - code=371000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:50,626 [main] ERROR My.test.TestUrlMap - code=371100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:50,663 [main] ERROR My.test.TestUrlMap - code=371200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:50,707 [main] ERROR My.test.TestUrlMap - code=371300 events长度不一致, 20!=14
+2017-05-10 15:56:50,743 [main] ERROR My.test.TestUrlMap - code=371400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:50,788 [main] ERROR My.test.TestUrlMap - code=371500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:50,827 [main] ERROR My.test.TestUrlMap - code=371600 events长度不一致, 20!=14
+2017-05-10 15:56:50,903 [main] ERROR My.test.TestUrlMap - code=371700 events长度不一致, 61!=16
+2017-05-10 15:56:51,082 [main] ERROR My.test.TestUrlMap - code=410100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:51,132 [main] ERROR My.test.TestUrlMap - code=410200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:51,190 [main] ERROR My.test.TestUrlMap - code=410300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:51,240 [main] ERROR My.test.TestUrlMap - code=410400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:51,363 [main] ERROR My.test.TestUrlMap - code=410500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:51,413 [main] ERROR My.test.TestUrlMap - code=410600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:51,455 [main] ERROR My.test.TestUrlMap - code=410700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:51,564 [main] ERROR My.test.TestUrlMap - code=410800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:51,616 [main] ERROR My.test.TestUrlMap - code=410900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:51,673 [main] ERROR My.test.TestUrlMap - code=411000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:52,226 [main] ERROR My.test.TestUrlMap - code=411100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:52,302 [main] ERROR My.test.TestUrlMap - code=411200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:52,346 [main] ERROR My.test.TestUrlMap - code=411300 events长度不一致, 92!=34
+2017-05-10 15:56:52,513 [main] ERROR My.test.TestUrlMap - code=411400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:52,555 [main] ERROR My.test.TestUrlMap - code=411500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:52,645 [main] ERROR My.test.TestUrlMap - code=411600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:52,750 [main] ERROR My.test.TestUrlMap - code=411700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:52,931 [main] ERROR My.test.TestUrlMap - code=420100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:52,974 [main] ERROR My.test.TestUrlMap - code=420200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:53,011 [main] ERROR My.test.TestUrlMap - code=420300 events长度不一致, 13!=6
+2017-05-10 15:56:53,115 [main] ERROR My.test.TestUrlMap - code=420500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:53,160 [main] ERROR My.test.TestUrlMap - code=420600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:53,203 [main] ERROR My.test.TestUrlMap - code=420700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:53,242 [main] ERROR My.test.TestUrlMap - code=420800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:53,279 [main] ERROR My.test.TestUrlMap - code=420900 events长度不一致, 42!=24
+2017-05-10 15:56:53,322 [main] ERROR My.test.TestUrlMap - code=421000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:53,604 [main] ERROR My.test.TestUrlMap - code=421100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:53,643 [main] ERROR My.test.TestUrlMap - code=421200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:53,677 [main] ERROR My.test.TestUrlMap - code=421300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:53,714 [main] ERROR My.test.TestUrlMap - code=422800 events长度不一致, 81!=27
+2017-05-10 15:56:53,859 [main] ERROR My.test.TestUrlMap - code=430100 events长度不一致, 253!=85
+2017-05-10 15:56:54,353 [main] ERROR My.test.TestUrlMap - code=430200 events长度不一致, 432!=45
+2017-05-10 15:56:54,988 [main] ERROR My.test.TestUrlMap - code=430300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:55,026 [main] ERROR My.test.TestUrlMap - code=430400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:55,091 [main] ERROR My.test.TestUrlMap - code=430500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:55,137 [main] ERROR My.test.TestUrlMap - code=430600 events长度不一致, 166!=37
+2017-05-10 15:56:55,286 [main] ERROR My.test.TestUrlMap - code=430700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:55,324 [main] ERROR My.test.TestUrlMap - code=430800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:55,367 [main] ERROR My.test.TestUrlMap - code=430900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:55,410 [main] ERROR My.test.TestUrlMap - code=431000 events长度不一致, 95!=36
+2017-05-10 15:56:55,460 [main] ERROR My.test.TestUrlMap - code=431100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:55,499 [main] ERROR My.test.TestUrlMap - code=431200 events长度不一致, 82!=38
+2017-05-10 15:56:55,541 [main] ERROR My.test.TestUrlMap - code=431300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:55,583 [main] ERROR My.test.TestUrlMap - code=433100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:55,783 [main] ERROR My.test.TestUrlMap - code=440100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:55,821 [main] ERROR My.test.TestUrlMap - code=440200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:56,842 [main] ERROR My.test.TestUrlMap - code=440300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:57,393 [main] ERROR My.test.TestUrlMap - code=440400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:57,435 [main] ERROR My.test.TestUrlMap - code=440500 events长度不一致, 71!=27
+2017-05-10 15:56:57,524 [main] ERROR My.test.TestUrlMap - code=440700 events长度不一致, 283!=81
+2017-05-10 15:56:57,581 [main] ERROR My.test.TestUrlMap - code=440800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:57,619 [main] ERROR My.test.TestUrlMap - code=440900 events长度不一致, 45!=17
+2017-05-10 15:56:57,670 [main] ERROR My.test.TestUrlMap - code=441200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:57,806 [main] ERROR My.test.TestUrlMap - code=441300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:57,847 [main] ERROR My.test.TestUrlMap - code=441400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:57,884 [main] ERROR My.test.TestUrlMap - code=441500 events长度不一致, 27!=18
+2017-05-10 15:56:58,208 [main] ERROR My.test.TestUrlMap - code=441600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:58,250 [main] ERROR My.test.TestUrlMap - code=441700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:58,297 [main] ERROR My.test.TestUrlMap - code=441800 events长度不一致, 135!=59
+2017-05-10 15:56:58,397 [main] ERROR My.test.TestUrlMap - code=441900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:58,506 [main] ERROR My.test.TestUrlMap - code=442000 events长度不一致, 136!=74
+2017-05-10 15:56:58,554 [main] ERROR My.test.TestUrlMap - code=445100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:58,601 [main] ERROR My.test.TestUrlMap - code=445200 events长度不一致, 63!=42
+2017-05-10 15:56:58,735 [main] ERROR My.test.TestUrlMap - code=450100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:58,784 [main] ERROR My.test.TestUrlMap - code=450200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:58,826 [main] ERROR My.test.TestUrlMap - code=450300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:58,865 [main] ERROR My.test.TestUrlMap - code=450400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:58,913 [main] ERROR My.test.TestUrlMap - code=450500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:58,972 [main] ERROR My.test.TestUrlMap - code=450600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:59,017 [main] ERROR My.test.TestUrlMap - code=450700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:59,059 [main] ERROR My.test.TestUrlMap - code=450800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:59,098 [main] ERROR My.test.TestUrlMap - code=450900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:59,141 [main] ERROR My.test.TestUrlMap - code=451000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:59,181 [main] ERROR My.test.TestUrlMap - code=451100 events长度不一致, 6!=4
+2017-05-10 15:56:59,220 [main] ERROR My.test.TestUrlMap - code=451200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:59,279 [main] ERROR My.test.TestUrlMap - code=451300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:59,320 [main] ERROR My.test.TestUrlMap - code=451400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:59,364 [main] ERROR My.test.TestUrlMap - code=460100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:59,401 [main] ERROR My.test.TestUrlMap - code=460200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:56:59,624 [main] ERROR My.test.TestUrlMap - code=500000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:00,187 [main] ERROR My.test.TestUrlMap - code=510100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:00,225 [main] ERROR My.test.TestUrlMap - code=510300 events长度不一致, 19!=4
+2017-05-10 15:57:00,267 [main] ERROR My.test.TestUrlMap - code=510400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:00,311 [main] ERROR My.test.TestUrlMap - code=510500 events长度不一致, 57!=31
+2017-05-10 15:57:00,360 [main] ERROR My.test.TestUrlMap - code=510600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:00,401 [main] ERROR My.test.TestUrlMap - code=510700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:00,445 [main] ERROR My.test.TestUrlMap - code=510800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:00,485 [main] ERROR My.test.TestUrlMap - code=510900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:00,528 [main] ERROR My.test.TestUrlMap - code=511000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:00,572 [main] ERROR My.test.TestUrlMap - code=511300 events长度不一致, 48!=24
+2017-05-10 15:57:00,625 [main] ERROR My.test.TestUrlMap - code=511400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:00,944 [main] ERROR My.test.TestUrlMap - code=511600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:00,987 [main] ERROR My.test.TestUrlMap - code=511700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:01,032 [main] ERROR My.test.TestUrlMap - code=511800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:01,068 [main] ERROR My.test.TestUrlMap - code=511900 events长度不一致, 6!=4
+2017-05-10 15:57:01,109 [main] ERROR My.test.TestUrlMap - code=512000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:01,150 [main] ERROR My.test.TestUrlMap - code=513200 events长度不一致, 140!=61
+2017-05-10 15:57:01,241 [main] ERROR My.test.TestUrlMap - code=513400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:01,352 [main] ERROR My.test.TestUrlMap - code=520100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:01,394 [main] ERROR My.test.TestUrlMap - code=520200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:01,539 [main] ERROR My.test.TestUrlMap - code=520300 events长度不一致, 191!=62
+2017-05-10 15:57:01,631 [main] ERROR My.test.TestUrlMap - code=520400 events长度不一致, 262!=164
+2017-05-10 15:57:01,688 [main] ERROR My.test.TestUrlMap - code=520500 events长度不一致, 98!=44
+2017-05-10 15:57:01,739 [main] ERROR My.test.TestUrlMap - code=520600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:01,784 [main] ERROR My.test.TestUrlMap - code=522300 events长度不一致, 86!=40
+2017-05-10 15:57:01,830 [main] ERROR My.test.TestUrlMap - code=522600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:01,889 [main] ERROR My.test.TestUrlMap - code=522700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:02,711 [main] ERROR My.test.TestUrlMap - code=530100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:02,750 [main] ERROR My.test.TestUrlMap - code=530300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:03,067 [main] ERROR My.test.TestUrlMap - code=530400 events长度不一致, 141!=74
+2017-05-10 15:57:03,177 [main] ERROR My.test.TestUrlMap - code=530500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:03,221 [main] ERROR My.test.TestUrlMap - code=530600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:03,534 [main] ERROR My.test.TestUrlMap - code=530700 events长度不一致, 373!=38
+2017-05-10 15:57:04,103 [main] ERROR My.test.TestUrlMap - code=530800 events长度不一致, 72!=34
+2017-05-10 15:57:04,147 [main] ERROR My.test.TestUrlMap - code=530900 events长度不一致, 39!=22
+2017-05-10 15:57:04,488 [main] ERROR My.test.TestUrlMap - code=532300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:04,574 [main] ERROR My.test.TestUrlMap - code=532500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:06,027 [main] ERROR My.test.TestUrlMap - code=532600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:06,070 [main] ERROR My.test.TestUrlMap - code=532800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:06,147 [main] ERROR My.test.TestUrlMap - code=532900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:06,185 [main] ERROR My.test.TestUrlMap - code=533100 events长度不一致, 26!=7
+2017-05-10 15:57:06,234 [main] ERROR My.test.TestUrlMap - code=533300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:06,282 [main] ERROR My.test.TestUrlMap - code=533400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:06,324 [main] ERROR My.test.TestUrlMap - code=540100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:06,876 [main] ERROR My.test.TestUrlMap - code=542200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:06,915 [main] ERROR My.test.TestUrlMap - code=542300 events长度不一致, 28!=6
+2017-05-10 15:57:06,956 [main] ERROR My.test.TestUrlMap - code=542400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:07,001 [main] ERROR My.test.TestUrlMap - code=542600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:07,550 [main] ERROR My.test.TestUrlMap - code=610100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:07,593 [main] ERROR My.test.TestUrlMap - code=610200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:07,660 [main] ERROR My.test.TestUrlMap - code=610300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:07,711 [main] ERROR My.test.TestUrlMap - code=610400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:07,753 [main] ERROR My.test.TestUrlMap - code=610500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:07,797 [main] ERROR My.test.TestUrlMap - code=610600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:07,839 [main] ERROR My.test.TestUrlMap - code=610700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:07,880 [main] ERROR My.test.TestUrlMap - code=610800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:07,919 [main] ERROR My.test.TestUrlMap - code=610900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:07,962 [main] ERROR My.test.TestUrlMap - code=611000, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:08,004 [main] ERROR My.test.TestUrlMap - code=620100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:08,051 [main] ERROR My.test.TestUrlMap - code=620200 events长度不一致, 109!=26
+2017-05-10 15:57:08,096 [main] ERROR My.test.TestUrlMap - code=620300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:08,146 [main] ERROR My.test.TestUrlMap - code=620400 events长度不一致, 16!=8
+2017-05-10 15:57:08,187 [main] ERROR My.test.TestUrlMap - code=620500 events长度不一致, 37!=12
+2017-05-10 15:57:08,469 [main] ERROR My.test.TestUrlMap - code=620600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:08,512 [main] ERROR My.test.TestUrlMap - code=620700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:08,556 [main] ERROR My.test.TestUrlMap - code=620800, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:08,600 [main] ERROR My.test.TestUrlMap - code=620900, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:08,654 [main] ERROR My.test.TestUrlMap - code=621000 events长度不一致, 28!=12
+2017-05-10 15:57:08,694 [main] ERROR My.test.TestUrlMap - code=621200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:08,751 [main] ERROR My.test.TestUrlMap - code=630100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:08,791 [main] ERROR My.test.TestUrlMap - code=632200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:08,830 [main] ERROR My.test.TestUrlMap - code=632300 events长度不一致, 32!=8
+2017-05-10 15:57:08,898 [main] ERROR My.test.TestUrlMap - code=632500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:08,940 [main] ERROR My.test.TestUrlMap - code=632600, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:09,262 [main] ERROR My.test.TestUrlMap - code=632700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:09,302 [main] ERROR My.test.TestUrlMap - code=632800 events长度不一致, 35!=15
+2017-05-10 15:57:09,864 [main] ERROR My.test.TestUrlMap - code=640100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:10,083 [main] ERROR My.test.TestUrlMap - code=640200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:10,123 [main] ERROR My.test.TestUrlMap - code=640300 events长度不一致, 144!=44
+2017-05-10 15:57:10,165 [main] ERROR My.test.TestUrlMap - code=640400, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:10,204 [main] ERROR My.test.TestUrlMap - code=640500, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:10,285 [main] ERROR My.test.TestUrlMap - code=650100 events长度不一致, 325!=173
+2017-05-10 15:57:10,345 [main] ERROR My.test.TestUrlMap - code=650200 events长度不一致, 42!=23
+2017-05-10 15:57:10,384 [main] ERROR My.test.TestUrlMap - code=652100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:10,427 [main] ERROR My.test.TestUrlMap - code=652200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:10,513 [main] ERROR My.test.TestUrlMap - code=652300 events长度不一致, 386!=95
+2017-05-10 15:57:10,812 [main] ERROR My.test.TestUrlMap - code=652700, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:10,855 [main] ERROR My.test.TestUrlMap - code=652800 events长度不一致, 106!=22
+2017-05-10 15:57:10,902 [main] ERROR My.test.TestUrlMap - code=653100, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:10,943 [main] ERROR My.test.TestUrlMap - code=654000 events长度不一致, 51!=16
+2017-05-10 15:57:10,987 [main] ERROR My.test.TestUrlMap - code=654200, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:11,031 [main] ERROR My.test.TestUrlMap - code=654300, updatetime 不一致, 201705101555!=201705101550
+2017-05-10 15:57:11,069 [main] ERROR My.test.TestUrlMap - code=810000 events长度不一致, 19!=5
+2017-05-10 15:57:11,113 [main] ERROR My.test.TestUrlMap - code=820000, updatetime 不一致, 201705101555!=201705101550
